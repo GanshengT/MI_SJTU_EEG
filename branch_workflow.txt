@@ -1,0 +1,19 @@
+Currently there are two branches in MI_SJTU_EEG repo, respectively dev_TAN and master
+dev_TAN is the develpping version, while all scripts in dev_TAN are ready-to-run
+
+Pipeline:
+
+read this one :https://gist.github.com/jedmao/5053440
+
+for dev_TAN
+before work - switch to dev - work -commit 
+git fetch origin
+git rebase dev
+and git push
+
+
+for master:
+check code
+switch to master
+git merch dev_TAN
+git push origin master
