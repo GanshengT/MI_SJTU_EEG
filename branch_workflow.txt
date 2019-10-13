@@ -15,5 +15,5 @@ and git push
 for master:
 check code
 switch to master
-git merch dev_TAN
+git merge dev_TAN
 git push origin master
