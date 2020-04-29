@@ -12,7 +12,7 @@ git rebase dev
 and git push
 
 
-for master:
+for master: only for single contributor
 check code
 switch to master
 git merge dev_TAN
