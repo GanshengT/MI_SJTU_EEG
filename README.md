@@ -10,3 +10,4 @@ This project aims to study human-machine mutual learning mechanism including EEG
 - *paradigm_design* provides experiment instruction and GUI.
 - In the Matlab folder, the .m file is an example script for Fuzzy model reference learning control.
 - A cleaning robot simulation platform has been developped in Pygame in the cleaning_robot_simulation folder.
+- The folder NN in control theory contains jupyter notebook of implementation of RBF-NN and RNN for a control system. Please refer to the report for more information.
